@@ -1,8 +1,8 @@
 # README
 
 This is a simple rails project which illustrates a weird crash. The project was created using the following steps:
-* Running MRI 2.5.3
-* `gem install rails`
+* Running MRI 2.5.3, Rails 5.2.2
+* `gem install rails` (5.2.2 is current)
 * `rails new bootsnap_test -T`  
 * Add rspec-rails gem to gemfile
 * `rails g rspec:install`
